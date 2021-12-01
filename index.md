@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to GMO7 Jupyter practicals
 
-You can use the [editor on GitHub](https://github.com/camgenomicmedicine/GMO7-Jupyter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In these practicals we will cover how to use some simple computational tools for Genomic Medicine. These practicals are hosted on GitHub, and are designed to be as user friendly as possible. You do not need a special computer, you do not need to know how computers work. All that is required is a modern up to date web browser, such as Google Chrome.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The practicals themselves will be run in Google Colab. To do this you will need to use a google account. As members of the University you all have a Google account associated with your CRSID. When you try and log in you will be taken to the Raven authentication page. For more details about G-suite at Cambridge see [the UIS webpage](https://help.uis.cam.ac.uk/news/gsuite-7-05-19).
 
-### Markdown
+### Getting started
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
