@@ -34,7 +34,7 @@ To start this practical using Google Colab:
 * **Watch this video showing how to use Colab**
   *TODO: osmart 23 Sep 2019: Record video on Colab* then ... 
 * [workbook_A.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
-  ](https://colab.research.google.com/github/ARU-Bioinf-IBDS/prac-A/blob/master/workbook_A.ipynb)
+  ](https://colab.research.google.com/github/camgenomicmedicine/GMO7-Jupyter/blob/main/workbook_A.ipynb)
 * [homework_A.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
   ](https://colab.research.google.com/github/ARU-Bioinf-IBDS/prac-A/blob/master/homework_A.ipynb)
 
