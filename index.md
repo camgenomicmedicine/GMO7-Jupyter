@@ -6,7 +6,8 @@ The practicals themselves will be run in Google Colab. To do this you will need 
 
 ### Getting started
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The first thing you need to do is to watch the video on the VLE explaining what Jupyter and GitHub are, and why they have revolutionised the way we do data science.
+Then, open the first notebook using Google Colab.
 
 ```markdown
 Syntax highlighted code block
@@ -30,8 +31,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/camgenomicmedicine/GMO7-Jupyter/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you are having problems the make sure you contact the module leaders. You should also attend the weekly tutorials on Zoom at 11:30 every Friday in term time. Please use the link on the VLE tutorial forum to join the online tutorials.
