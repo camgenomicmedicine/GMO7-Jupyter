@@ -36,3 +36,20 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### Support or Contact
 
 If you are having problems the make sure you contact the module leaders. You should also attend the weekly tutorials on Zoom at 11:30 every Friday in term time. Please use the link on the VLE tutorial forum to join the online tutorials.
+
+-------------------------
+
+> This is the practical site for 
+> [GMO7 Jupyter](https://camgenomicmedicine.github.io/GMO7-Jupyter/)
+>
+> Module:
+>  *Research and Statistical Skills for Genomic Medicine* 
+>
+> Original author: [Tim Hearn](https://comparativechrono.org/),
+> developed for MPhil Genomic Medicine,
+>  [Department of Medical Genetics,
+>  University of Cambridge
+>  ](https://medgen.medschl.cam.ac.uk/).
+>
+> Copyright (c) 2021 Department of Medical Genetics
+
