@@ -1,4 +1,4 @@
-## Welcome to GMO7 Jupyter practicals
+## Welcome to GMO7 Jupyter practicals <img src="https://www.dropbox.com/s/ciw27npgqdxk0g6/pgstudytransparentpng.png?dl=1" width="150" height="150" style="float:right">
 
 In these practicals we will cover how to use some simple computational tools for Genomic Medicine. These practicals are hosted on GitHub, and are designed to be as user friendly as possible. You do not need a special computer, you do not need to know how computers work. All that is required is a modern up to date web browser, such as Google Chrome.
 
