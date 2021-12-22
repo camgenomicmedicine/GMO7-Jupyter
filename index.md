@@ -8,9 +8,23 @@ The practicals themselves will be run in Google Colab. To do this you will need 
 
 The first thing you need to do is to watch the video on the VLE explaining what Jupyter and GitHub are, and why they have revolutionised the way we do data science.
 Then, open the first notebook using Google Colab.
+<br>
 In block six complete practicals A and B.
-In block seven complete practicals C and D.
+<br>
+* [workbook_A.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+  ](https://colab.research.google.com/github/camgenomicmedicine/GMO7-Jupyter/blob/main/workbook_A.ipynb)
+* [homework_A.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+  ](https://colab.research.google.com/github/ARU-Bioinf-IBDS/prac-A/blob/master/homework_A.ipynb)
 
+In block seven complete practicals C and D.
+* [workbook_C.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+  ](https://colab.research.google.com/github/camgenomicmedicine/GMO7-Jupyter/blob/main/Workbook_C_Machine_Learning.ipynb)
+* [workbook_D.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+  ](https://colab.research.google.com/github/camgenomicmedicine/GMO7-Jupyter/blob/main/Workbook_D_Neural_Networks.ipynb)
+<br>
+Jupyter notebooks can be used for all sorts of reproducible analyses. This module has focused on R, but it can be used to host entire bioinformatics pipelines. To see an example of this explore the NGS pipeline encoded in the notebook below.
+* [workbook_C.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+  ](https://colab.research.google.com/github/camgenomicmedicine/GMO7-Jupyter/blob/main/NGS.ipynb)
 ### Support or Contact
 
 If you are having problems the make sure you contact the module leaders. You should also attend the weekly tutorials on Zoom at 11:30 every Friday in term time. Please use the link on the VLE tutorial forum to join the online tutorials.
