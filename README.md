@@ -30,9 +30,7 @@ in the cloud.
   uses GoogleDrive for storage.
 * The Google Colab user interface is different from Jupyter Notebook but straight forward to use.
 
-To start this practical using Google Colab:
-* **Watch this video showing how to use Colab**
-  *TODO: osmart 23 Sep 2019: Record video on Colab* then ... 
+To start this practical using Google Colab follow the links below. Please make sure to have watched the background to Jupyter notebooks in research skills Lecture 2. 
 * [workbook_A.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
   ](https://colab.research.google.com/github/camgenomicmedicine/GMO7-Jupyter/blob/main/workbook_A.ipynb)
 * [homework_A.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
