@@ -8,30 +8,8 @@ The practicals themselves will be run in Google Colab. To do this you will need 
 
 The first thing you need to do is to watch the video on the VLE explaining what Jupyter and GitHub are, and why they have revolutionised the way we do data science.
 Then, open the first notebook using Google Colab.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-
+In block six complete practicals A and B.
+In block seven complete practicals C and D.
 
 ### Support or Contact
 
