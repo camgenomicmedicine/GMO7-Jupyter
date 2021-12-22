@@ -23,8 +23,9 @@ In block seven complete practicals C and D.
   ](https://colab.research.google.com/github/camgenomicmedicine/GMO7-Jupyter/blob/main/Workbook_D_Neural_Networks.ipynb)
 <br>
 Jupyter notebooks can be used for all sorts of reproducible analyses. This module has focused on R, but it can be used to host entire bioinformatics pipelines. To see an example of this explore the NGS pipeline encoded in the notebook below.
-* [workbook_C.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+* [workbook_NGS.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
   ](https://colab.research.google.com/github/camgenomicmedicine/GMO7-Jupyter/blob/main/NGS.ipynb)
+
 ### Support or Contact
 
 If you are having problems the make sure you contact the module leaders. You should also attend the weekly tutorials on Zoom at 11:30 every Friday in term time. Please use the link on the VLE tutorial forum to join the online tutorials.
