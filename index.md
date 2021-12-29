@@ -13,8 +13,8 @@ In block six complete practicals A and B.
 <br>
 * [workbook_A.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
   ](https://colab.research.google.com/github/camgenomicmedicine/GMO7-Jupyter/blob/main/workbook_A.ipynb)
-* [homework_A.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
-  ](https://colab.research.google.com/github/ARU-Bioinf-IBDS/prac-A/blob/master/homework_A.ipynb)
+* [workbook_B.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+  ](https://colab.research.google.com/github/camgenomicmedicine/GMO7-Jupyter/blob/main/Anscombe_quartet.ipynb)
 
 In block seven complete practicals C and D.
 * [workbook_C.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
