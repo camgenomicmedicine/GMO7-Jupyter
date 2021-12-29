@@ -22,9 +22,14 @@ In block seven complete practicals C and D.
 * [workbook_D.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
   ](https://colab.research.google.com/github/camgenomicmedicine/GMO7-Jupyter/blob/main/Workbook_D_Neural_Networks.ipynb)
 
-Jupyter notebooks can be used for all sorts of reproducible analyses. This module has focused on R, but it can be used to host entire bioinformatics pipelines. To see an example of this explore the NGS pipeline encoded in the notebook below.
+Jupyter notebooks can be used for all sorts of reproducible analyses. This module has focused on R, but it can be used to host entire bioinformatics pipelines. To see an example of this explore the NGS pipeline encoded in the Jupyter notebook below. Note this is a standard notebook and not an R notebook.
 * [workbook_NGS.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
   ](https://colab.research.google.com/github/camgenomicmedicine/GMO7-Jupyter/blob/main/NGS.ipynb)
+
+We can also use Jupyter notebooks to help plan research. The following R notebook features in the 4 P's self-directed course. It demonstrates how to perform power calculations to calculate sample size for a prospective study.
+
+* [power_calculations.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+  ](https://colab.research.google.com/github/camgenomicmedicine/GMO7-Jupyter/blob/main/Power_calculation.ipynb)
 
 ### Support or Contact
 
