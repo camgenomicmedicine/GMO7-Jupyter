@@ -12,7 +12,7 @@ Then, open the first notebook using Google Colab.
 In block six complete practicals A and B.
 <br>
 * [workbook_A.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
-  ](https://colab.research.google.com/github/camgenomicmedicine/GMO7-Jupyter/blob/main/workbook_A.ipynb)
+  ](https://colab.research.google.com/github/camgenomicmedicine/GMO7-Jupyter/blob/main/Workbook_A.ipynb)
 * [workbook_B.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
   ](https://colab.research.google.com/github/camgenomicmedicine/GMO7-Jupyter/blob/main/Anscombe_quartet.ipynb)
 
