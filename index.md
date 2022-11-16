@@ -9,12 +9,14 @@ The practicals themselves will be run in Google Colab. To do this you will need 
 The first thing you need to do is to watch the video on the VLE explaining what Jupyter and GitHub are, and why they have revolutionised the way we do data science.
 Then, open the first notebook using Google Colab.
 <br>
-In block six complete practicals A and B.
+In block six complete practical workbook A and B and Homework A.
 <br>
 * [workbook_A.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
   ](https://colab.research.google.com/github/camgenomicmedicine/GMO7-Jupyter/blob/main/Workbook_A.ipynb)
 * [workbook_B.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
   ](https://colab.research.google.com/github/camgenomicmedicine/GMO7-Jupyter/blob/main/Anscombe_quartet.ipynb)
+* [homework_A.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+  ](https://colab.research.google.com/github/camgenomicmedicine/GMO7-Jupyter/blob/main/homework_A.ipynb)
 
 In block seven complete practicals C and D.
 * [workbook_C.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
