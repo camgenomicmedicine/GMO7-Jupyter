@@ -35,7 +35,7 @@ We can also use Jupyter notebooks to help plan research. The following R noteboo
 
 ### Support or Contact
 
-If you are having problems the make sure you contact the module leaders. You should also attend the weekly tutorials on Zoom at 11:30 every Friday in term time. Please use the link on the VLE tutorial forum to join the online tutorials.
+If you are having problems the make sure you contact the module leaders. You should also attend the weekly tutorials offered to you during term time. Please use the link on the VLE tutorial page to join the online tutorials or attend a timetabled session.
 
 -------------------------
 
@@ -51,5 +51,5 @@ If you are having problems the make sure you contact the module leaders. You sho
 >  University of Cambridge
 >  ](https://medgen.medschl.cam.ac.uk/).
 >
-> Copyright (c) 2021 Department of Medical Genetics
+> Copyright (c) 2022 Department of Medical Genetics
 
