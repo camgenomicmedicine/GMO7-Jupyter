@@ -16,7 +16,7 @@ In block six complete practical workbook A and B and Homework A.
 * [workbook_B.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
   ](https://colab.research.google.com/github/camgenomicmedicine/GMO7-Jupyter/blob/main/Anscombe_quartet.ipynb)
 * [homework_A.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
-  ](https://colab.research.google.com/github/camgenomicmedicine/GMO7-Jupyter/blob/main/homework_A.ipynb)
+  ](https://colab.research.google.com/github/camgenomicmedicine/GMO7-Jupyter/blob/main/Homework_A.ipynb)
 
 In block seven complete practicals C and D.
 * [workbook_C.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
